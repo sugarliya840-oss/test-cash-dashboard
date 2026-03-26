@@ -93,4 +93,4 @@ if st.button(" ", type="primary", use_container_width=True):
     st.success(" ")
     st.rerun()
 
-st.caption("💡 提示：目前是静态演示数据。以后你告诉我数据来源（Excel / Google Sheets / SQL），我可以帮你改成自动读取 + 真正实时更新。")
+st.caption(" ")
